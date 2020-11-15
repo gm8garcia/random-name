@@ -1,5 +1,6 @@
-; Warrior name
-; Michael Andaloro & Gabriella Garcia
+; name: hulk
 
-; I kind of like scissors and paper strategies the most...
-; Maybe a blend of both?
+add #3044,1
+jmz -1,-2
+mov -3,@-1
+jmp -3
