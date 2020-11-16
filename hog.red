@@ -1,9 +1,13 @@
-;name Hog
-; calling it Hog because it (somewhat) quickly takes over most of the board.
-; Dunno why that makes me think of a Hog but anyhoo
+;name NEED A NAME
 
-start	MOV	<2,	3
-	ADD	#d1,	start
-	JMP	start
-	DAT		0
-d1	DAT	-5000,	5000
+; Stone warrior
+; Based off the stone warrior in the docs
+; Great against scissors
+; Not so great against paper
+
+start	mov	<2,	3
+	add	d1,	start
+	jmp	start
+	dat		0
+d1	dat	-7998,	7998 ;5084 (Modify this to change how far apaer the copies are made)
+        end     start
