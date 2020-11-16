@@ -13,7 +13,7 @@ It's getting hard to keep track of which ones are from the interwebs and which o
 2. quick_lose.red (that one is a joke)
 3. option1.red (don't use that, it sucks)
 4. hog.red (The best one yet, testing on the sample warriors I found online to verify its integrity)
-\
+\\
 beast.red is the best warrior I found online, will be the base warrior.
 \
 If my warrior can beat it, it's a good one.
